@@ -63,6 +63,11 @@
 
 ---
 
+## 预告
+<img width="385" height="322" alt="62e3c3735a7298865c6b1d279f5857ca" src="https://github.com/user-attachments/assets/d824da14-2e36-4fa7-ae41-b1f1a2bc0a66" />
+
+自研机械臂正在制作中......
+
 ## 🤝 结语
 暂时只想到这些了。希望这份指南能帮到想要学习 RV 减速器的朋友，祝大家装配顺利！
 
