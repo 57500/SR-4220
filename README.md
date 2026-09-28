@@ -1,8 +1,7 @@
 # SR-4220 针齿全轴承低成本RV减速器
 
-![全家福](<img width="1706" height="1279" alt="57feaf2c608dee79a52db78fb02cc7f5" src="https://github.com/user-attachments/assets/b8fdbf5c-8310-4f01-8e04-c968189488ec" />
-)
-*（SR-4220 及各版本迭代全家福）*
+![全家福](https://github.com/user-attachments/assets/b8fdfb5c-8310-4f01-8e04-c968189488ec)
+*(SR-4220 及各版本迭代全家福)*
 
 ## 📖 项目简介
 
